@@ -10,7 +10,7 @@
 
 1. **SQL Fundamentals**
     - Learn SELECT, WHERE, GROUP BY, and JOIN
-    - Practice with real data (e.g. on [mode.com/sql-tutorial](https://mode.com/sql-tutorial) or [LeetCode SQL](https://leetcode.com/problemset/database/))
+    - Practice with real data (e.g. on [W3Schools SQL](https://www.w3schools.com/sql) or [LeetCode SQL](https://leetcode.com/problemset/database/))
 2. **Python Basics**
     - Focus on loops, functions, list/dict operations, and reading files
     - Use `pandas` to load and manipulate datasets
